@@ -1,23 +1,9 @@
-"Samples":[
+"Samples": [
   {
     "amount":"88.99",
     "comments":"TEST 00004",
     "id":"62e56fe5-b2b4-4121-b2d9-86c81b7ec556",
     "createAt":{},
-    "sample_date":"2000-01-06",
+    "sample_date":"2000-01-06"
    },
-   {
-    "amount":"99.99",
-    "comments":"TEST 00000",
-    "id":"37b2de01-531a-434d-ada4-7dd06085a90a",
-    "createAt":{},
-    "sample_date":"2000-01-02",
-   },
-   {
-    "amount":"98.99",
-    "comments":"TEST 00001",
-    "sample_date":"2000-01-02",
-    "id":"d072359d-4709-4169-8b53-ae52d69dae7c",
-    "createAt":{},
-   }
 ]
